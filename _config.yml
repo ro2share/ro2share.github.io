@@ -1,0 +1,20 @@
+title: ro2share
+author: ro2share
+email: alexgarciac@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  ro2share
+github_username:  alexgarciac
+
+header_pages:
+  - dataset.md
+  - contributors.html
+  - model/index.html
+  - software/index.md
+  - queries.md
+
+# Build settings
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
