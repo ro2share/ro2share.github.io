@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documentation
-permalink: /documentation/
+title: Setting it up
+permalink: /settingitup/
 ---
 Setting it up
