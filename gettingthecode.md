@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documentation
-permalink: /documentation/
+title: Getting the code
+permalink: /gettingthecode/
 ---
 Get the code
