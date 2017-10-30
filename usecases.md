@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Use Cases
-permalink: /documentation/
+permalink: /usecases/
 ---
 Use cases 
