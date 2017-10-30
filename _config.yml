@@ -6,11 +6,9 @@ description: > # this means to ignore newlines until "baseurl:"
 github_username:  alexgarciac
 
 header_pages:
-  - dataset.md
-  - contributors.html
-  - model/index.html
-  - software/index.md
-  - queries.md
+  - usecases.md
+  - settingitup.md
+  - gettingthecode.md
 
 # Build settings
 markdown: kramdown
