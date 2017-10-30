@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documentation
+title: Use Cases
 permalink: /documentation/
 ---
 Use cases 
